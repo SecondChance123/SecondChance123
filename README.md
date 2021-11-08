@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SecondChance123
+- 👀 I’m interested in reverse engineering games. 
+- 🌱 I’m currently learning in JavaScript about WebSockets and POST/GET requests.
+- 💞️ I’m looking to collaborate on JavaScript backend projects.
+- 📫 How to reach me: Second Chance#2591
